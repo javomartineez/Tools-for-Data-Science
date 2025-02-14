@@ -1,2 +1,2 @@
 # Tools-for-Data-Science
-Final Assignment repository for module 5 of IBM's Tools for Data Science course
+Jupyter notebook (and repo) created for the final assignment in module 5 of Tools for Data Science course to complete the IBM Data Science Professional Certificate
